@@ -2,7 +2,7 @@ package bf
 
 import (
 	"fmt"
-	"github.com/go-iconv/src"
+	"hchtest/go-iconv/src"
 	"os"
 )
 
