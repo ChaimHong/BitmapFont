@@ -1,3 +1,5 @@
+BitmapFont: Library for go
+
 BitmapFont
 ==========
 
