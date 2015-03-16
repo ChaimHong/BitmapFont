@@ -3,7 +3,8 @@ BitmapFont: Library for go
 BitmapFont
 ==========
 
-BitmapFont interpreter with Golang
+BitmapFont  
+interpreter with Golang
 
 Install
 ================
